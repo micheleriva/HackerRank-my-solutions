@@ -1,4 +1,4 @@
-SELECT (CASE WHEN grade <8 THEN NULL ELSE name END) name, grade, marks
+SELECT (CASE WHEN grade < 8 THEN NULL ELSE name END) name, grade, marks
 FROM
 (select name, grade, marks
 FROM students, grades

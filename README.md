@@ -18,3 +18,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/SQL/contest-leaderboard.sql)
 - [The Report](https://www.hackerrank.com/challenges/the-report/problem)
   - [Solution](/src/SQL/the-report.sql)
+- [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)
+  - [Solution](/src/SQL/top-competitors.sql)

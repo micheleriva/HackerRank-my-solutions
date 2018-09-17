@@ -10,4 +10,4 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 - [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess)
   - [Solution](/src/js/artificial-intelligence/lib/bot-saves-princess.js)
-  - [Explanation](/src/js/artificial-intelligence/lib/README.md#bot-saves-princess)
+  - [Explanation](/src/js/artificial-intelligence/README.md#bot-saves-princess)

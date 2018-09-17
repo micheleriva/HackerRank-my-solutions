@@ -22,3 +22,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/SQL/top-competitors.sql)
 - [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
   - [Solution](/src/SQL/ollivander-s-inventory.sql)
+- [Challenges](https://www.hackerrank.com/challenges/challenges/problem)
+  - [Solution](/src/SQL/challenges.sql)

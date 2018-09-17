@@ -8,4 +8,6 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 ### Artificial Intelligence
 
-- [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess) ~ [Solution](/src/js/artificial-intelligence/lib/bot-saves-princess.js)
+- [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess)
+  - [Solution](/src/js/artificial-intelligence/lib/bot-saves-princess.js)
+  - [Explanation](/src/js/artificial-intelligence/lib/README#bot-saves-princess)

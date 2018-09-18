@@ -30,3 +30,4 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Scala](/src/functional-programming/scala/hello-world.scala)
 - [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world-n-times.hs)
+  - [Scala](/src/functional-programming/scala/hello-world-n-times.scala)

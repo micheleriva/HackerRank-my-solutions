@@ -24,3 +24,10 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/SQL/ollivander-s-inventory.sql)
 - [Challenges](https://www.hackerrank.com/challenges/challenges/problem)
   - [Solution](/src/SQL/challenges.sql)
+
+
+### Functional Programming
+- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)
+  - [Haskell](/src/functional-programming/haskell/hello-world.hs)
+- [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
+  - [Haskell](/src/functional-programming/haskell/hello-world-n-times.hs)

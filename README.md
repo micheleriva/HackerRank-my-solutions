@@ -4,8 +4,6 @@ These days I'm really digging into [HackerRank](https://www.hackerrank.com) and 
 
 I've decided to make my solutions public just to keep track of them and hoping that someone will show me my mistakes or improves my code 😀
 
-# JavaScript
-
 ### Artificial Intelligence
 
 - [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess)
@@ -29,5 +27,6 @@ I've decided to make my solutions public just to keep track of them and hoping t
 ### Functional Programming
 - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world.hs)
+  - [Scala](/src/functional-programming/scala/hello-world.scala)
 - [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world-n-times.hs)

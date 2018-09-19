@@ -36,3 +36,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Scala](/src/functional-programming/scala/list-replication.scala)
 - [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
   - [Scala](/src/functional-programming/scala/reverse-a-list.scala)
+- [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)
+  - [Scala](/src/functional-programming/scala/sum-of-odd-elements.scala)

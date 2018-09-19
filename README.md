@@ -32,5 +32,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Haskell](/src/functional-programming/haskell/hello-world-n-times.hs)
   - [Scala](/src/functional-programming/scala/hello-world-n-times.scala)
 - [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)
-  - [Haskell](/src/functional-programming/haskell/list-replication.hs)
+  - [Haskell](/src/functional-programming/haskell/list-replication.hs)
   - [Scala](/src/functional-programming/scala/list-replication.scala)

@@ -40,3 +40,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Scala](/src/functional-programming/scala/sum-of-odd-elements.scala)
 - [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem)
   - [Scala](/src/functional-programming/scala/list-length.scala)
+- [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)
+  - [Scala](/src/functional-programming/scala/update-list.scala)

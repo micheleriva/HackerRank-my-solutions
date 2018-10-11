@@ -23,6 +23,10 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Challenges](https://www.hackerrank.com/challenges/challenges/problem)
   - [Solution](/src/SQL/challenges.sql)
 
+### Euler
+
+- [#1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)
+  - [Elixir](/src/euler/01.ex)
 
 ### Functional Programming
 - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)

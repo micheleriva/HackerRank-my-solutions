@@ -27,6 +27,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 - [#1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)
   - [Elixir](/src/euler/01.ex)
+  - [C++](/src/euler/01.cpp)
 
 ### Functional Programming
 - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)

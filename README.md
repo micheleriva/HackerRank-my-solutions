@@ -86,6 +86,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world-n-times.hs)
   - [Scala](/src/functional-programming/scala/hello-world-n-times.scala)
+  - [Elixir](/src/functional-programming/elixir/hello-world-n-times.ex)
 - [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)
   - [Haskell](/src/functional-programming/haskell/list-replication.hs)
   - [Scala](/src/functional-programming/scala/list-replication.scala)

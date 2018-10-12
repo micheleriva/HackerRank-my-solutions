@@ -68,8 +68,6 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Elixir](/src/regex/elixir/detecting-valid-latitude-and-longitude.ex)
 - [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem)
   - [Elixir](/src/regex/elixir/find-hackerrank.ex)
-- [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem)
-  - [Elixir](/src/regex/elixir/ide-identifying-comments.ex)
 
 ### Euler
 

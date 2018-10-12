@@ -66,6 +66,8 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 - [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem)
   - [Elixir](/src/regex/elixir/detecting-valid-latitude-and-longitude.ex)
+- [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem)
+  - [Elixir](/src/regex/elixir/find-hackerrank.ex)
 
 ### Euler
 

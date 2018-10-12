@@ -27,3 +27,12 @@ regex_pattern = '^[a-z][1-9][^a-z][^A-Z][A-Z]'
 
 # 10 Matching {x} Repetitions
 regex_pattern = '^[a-zA-Z02468]{40}[13579\s]{5}$'
+
+# 11 Matching {x, y} Repetitions
+regex_pattern = '^\d{1,2}[A-Za-z]{3,}\.{0,3}$'
+
+# 12 Matching Zero Or More Repetitions
+regex_pattern = '^\d{2,}[a-z]*.*[A-Z]*$'
+
+# 13 Matching Ending Items
+regex_pattern = '(^[a-zA-Z]*[s]+$)'

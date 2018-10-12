@@ -25,9 +25,18 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 ### Regex
 - [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
-  - [Solution](/src/regex/regex.rb#L1)
+  - [Solution](/src/regex/regex.rb#L2)
 - [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
-  - [Solution](/src/regex/regex.rb#L4)
+  - [Solution](/src/regex/regex.rb#L5)
+- [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)
+  - [Solution](/src/regex/regex.rb#L8)
+- [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)
+  - [Solution](/src/regex/regex.rb#L11)
+- [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem)
+  - [Solution](/src/regex/regex.rb#L17)
+- [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)
+  - [Solution](/src/regex/regex.rb#L17)
+
 
 ### Euler
 

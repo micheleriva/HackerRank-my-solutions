@@ -90,6 +90,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)
   - [Haskell](/src/functional-programming/haskell/list-replication.hs)
   - [Scala](/src/functional-programming/scala/list-replication.scala)
+  - [Elixir](/src/functional-programming/elixir/list-replication.ex)
 - [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
   - [Scala](/src/functional-programming/scala/reverse-a-list.scala)
 - [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)

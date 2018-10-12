@@ -4,6 +4,14 @@ These days I'm really digging into [HackerRank](https://www.hackerrank.com) and 
 
 I've decided to make my solutions public just to keep track of them and hoping that someone will show me my mistakes or improves my code 😀
 
+### Index
+
+- [Artificial Intelligence](#artificial-intelligence)
+- [SQL](#sql)
+- [Regex](#regex)
+- [Euler](#euler)
+- [Functional Programming](#functional-programming)
+
 ### Artificial Intelligence
 
 - [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess)
@@ -24,32 +32,33 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/SQL/challenges.sql)
 
 ### Regex
+
 - [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
-  - [Solution](/src/regex/regex.rb#L2)
+  - [Solution](/src/regex/patterns.rb#L2)
 - [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
-  - [Solution](/src/regex/regex.rb#L5)
+  - [Solution](/src/regex/patterns.rb#L5)
 - [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)
-  - [Solution](/src/regex/regex.rb#L8)
+  - [Solution](/src/regex/patterns.rb#L8)
 - [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)
-  - [Solution](/src/regex/regex.rb#L11)
+  - [Solution](/src/regex/patterns.rb#L11)
 - [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem)
-  - [Solution](/src/regex/regex.rb#L14)
+  - [Solution](/src/regex/patterns.rb#L14)
 - [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)
-  - [Solution](/src/regex/regex.rb#L17)
+  - [Solution](/src/regex/patterns.rb#L17)
 - [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)
-  - [Solution](/src/regex/regex.rb#L20)
+  - [Solution](/src/regex/patterns.rb#L20)
 - [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)
-  - [Solution](/src/regex/regex.rb#L23)
+  - [Solution](/src/regex/patterns.rb#L23)
 - [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)
-  - [Solution](/src/regex/regex.rb#L26)
+  - [Solution](/src/regex/patterns.rb#L26)
 - [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)
-  - [Solution](/src/regex/regex.rb#L29)
+  - [Solution](/src/regex/patterns.rb#L29)
 - [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)
-  - [Solution](/src/regex/regex.rb#L32)
+  - [Solution](/src/regex/patterns.rb#L32)
 - [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)
-  - [Solution](/src/regex/regex.rb#L35)
+  - [Solution](/src/regex/patterns.rb#L35)
 - [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem)
-  - [Solution](/src/regex/regex.rb#L38)
+  - [Solution](/src/regex/patterns.rb#L38)
 
 
 ### Euler
@@ -59,6 +68,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [C++](/src/euler/01.cpp)
 
 ### Functional Programming
+
 - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world.hs)
   - [Scala](/src/functional-programming/scala/hello-world.scala)

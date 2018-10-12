@@ -33,6 +33,8 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 ### Regex
 
+##### Plain Regex
+
 - [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
   - [Solution](/src/regex/patterns.rb#L2)
 - [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
@@ -60,6 +62,10 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem)
   - [Solution](/src/regex/patterns.rb#L38)
 
+##### Problems
+
+- [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem)
+  - [Solution](/src/regex/elixir/detecting-valid-latitude-and-longitude.ex)
 
 ### Euler
 

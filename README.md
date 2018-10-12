@@ -23,6 +23,12 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Challenges](https://www.hackerrank.com/challenges/challenges/problem)
   - [Solution](/src/SQL/challenges.sql)
 
+### Regex
+- [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)
+  - [Solution](/src/regex/regex.rb#L1)
+- [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)
+  - [Solution](/src/regex/regex.rb#L4)
+
 ### Euler
 
 - [#1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)

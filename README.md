@@ -68,6 +68,8 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Elixir](/src/regex/elixir/detecting-valid-latitude-and-longitude.ex)
 - [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem)
   - [Elixir](/src/regex/elixir/find-hackerrank.ex)
+- [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem)
+  - [Elixir](/src/regex/elixir/ide-identifying-comments.ex)
 
 ### Euler
 
@@ -80,6 +82,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world.hs)
   - [Scala](/src/functional-programming/scala/hello-world.scala)
+  - [Elixir](/src/functional-programming/elixir/hello-world.ex)
 - [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
   - [Haskell](/src/functional-programming/haskell/hello-world-n-times.hs)
   - [Scala](/src/functional-programming/scala/hello-world-n-times.scala)

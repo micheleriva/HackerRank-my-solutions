@@ -104,3 +104,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/linux-shell/lets-echo.sh)
 - [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
   - [Solution](/src/linux-shell/looping-and-skipping.sh)
+- [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
+  - [Solution](/src/linux-shell/a-personalized-echo.sh)

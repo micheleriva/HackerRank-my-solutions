@@ -106,3 +106,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/linux-shell/looping-and-skipping.sh)
 - [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)
   - [Solution](/src/linux-shell/a-personalized-echo.sh)
+- [Looping with Numbers](/src/linux-shell/looping-with-numbers.sh)
+  - [Solution](/src/linux-shell/looping-with-numbers.sh)
+- [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)
+  - [Solution](/src/linux-shell/the-world-of-numbers.sh)

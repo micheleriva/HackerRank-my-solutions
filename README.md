@@ -11,6 +11,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Regex](#regex)
 - [Euler](#euler)
 - [Functional Programming](#functional-programming)
+- [Linux Shell](#linux-shell)
 
 ### Artificial Intelligence
 
@@ -97,3 +98,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Scala](/src/functional-programming/scala/list-length.scala)
 - [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)
   - [Scala](/src/functional-programming/scala/update-list.scala)
+
+### Linux Shell
+- [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)
+  - [Solution](/src/linux-shell/lets-echo.sh)

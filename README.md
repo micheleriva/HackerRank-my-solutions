@@ -102,3 +102,5 @@ I've decided to make my solutions public just to keep track of them and hoping t
 ### Linux Shell
 - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)
   - [Solution](/src/linux-shell/lets-echo.sh)
+- [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
+  - [Solution](/src/linux-shell/looping-and-skipping.sh)

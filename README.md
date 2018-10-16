@@ -110,5 +110,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/linux-shell/looping-with-numbers.sh)
 - [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)
   - [Solution](/src/linux-shell/the-world-of-numbers.sh)
-- [Getting started with conditionals](getting-started-with-conditionals)
+- [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)
   - [Solution](/src/linux-shell/getting-started-with-conditionals.sh)
+- [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)
+  - [Solution](/src/linux-shell/more-on-conditionals.sh)

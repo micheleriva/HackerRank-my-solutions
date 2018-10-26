@@ -101,6 +101,8 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Scala](/src/functional-programming/scala/update-list.scala)
 - [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem)
   - [Haskell](/src/functional-programming/haskell/filter-array.hs)
+- [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
+  - [Haskell](/src/functional-programming/haskell/filter-positions.hs)
 
 ### Linux Shell
 - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)

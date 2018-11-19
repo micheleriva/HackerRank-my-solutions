@@ -103,6 +103,8 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Haskell](/src/functional-programming/haskell/filter-array.hs)
 - [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
   - [Haskell](/src/functional-programming/haskell/filter-positions.hs)
+- [String Compression](https://www.hackerrank.com/challenges/string-compression/problem)
+  - [Haskell](/src/functional-programming/haskell/string-compression.hs)
 
 ### Linux Shell
 - [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)

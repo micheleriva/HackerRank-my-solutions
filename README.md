@@ -7,6 +7,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 ### Index
 
 - [Artificial Intelligence](#artificial-intelligence)
+- [Algorithms](#algorithms)
 - [SQL](#sql)
 - [Regex](#regex)
 - [Euler](#euler)
@@ -18,6 +19,10 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Bot Saves Princess](https://www.hackerrank.com/challenges/saveprincess)
   - [Solution](/src/js/artificial-intelligence/lib/bot-saves-princess.js)
   - [Explanation](/src/js/artificial-intelligence/README.md#bot-saves-princess)
+
+### Algorithms
+- [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+  - [Haskell](/src/algorithms/mini-max-sum.hs)
 
 ### SQL
 

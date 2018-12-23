@@ -8,6 +8,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 - [Artificial Intelligence](#artificial-intelligence)
 - [Algorithms](#algorithms)
+- [Interview Preparation Kit](#interview-preparation-kit)
 - [SQL](#sql)
 - [Regex](#regex)
 - [Euler](#euler)
@@ -23,6 +24,10 @@ I've decided to make my solutions public just to keep track of them and hoping t
 ### Algorithms
 - [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
   - [Haskell](/src/algorithms/mini-max-sum.hs)
+
+### Interview Preparation Kit
+- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+  - [Haskell](/src/interview-preparation/sock-merchant.hs)
 
 ### SQL
 

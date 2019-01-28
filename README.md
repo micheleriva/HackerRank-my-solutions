@@ -135,4 +135,6 @@ I've decided to make my solutions public just to keep track of them and hoping t
 
 ### Java
 - [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
-  -[Solution](/src/java/tag-content-extractor.java)
+  - [Solution](/src/java/tag-content-extractor.java)
+- [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)
+  - [Solution](/src/java/java-sort.java)

@@ -14,6 +14,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
 - [Euler](#euler)
 - [Functional Programming](#functional-programming)
 - [Linux Shell](#linux-shell)
+- [Java](#java)
 
 ### Artificial Intelligence
 
@@ -131,3 +132,7 @@ I've decided to make my solutions public just to keep track of them and hoping t
   - [Solution](/src/linux-shell/getting-started-with-conditionals.sh)
 - [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)
   - [Solution](/src/linux-shell/more-on-conditionals.sh)
+
+### Java
+- [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
+  -[Solution](/src/java/tag-content-extractor.java)

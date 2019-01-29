@@ -25,6 +25,8 @@ I've decided to make my solutions public just to keep track of them and hoping t
 ### Algorithms
 - [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
   - [Haskell](/src/algorithms/mini-max-sum.hs)
+- [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
+  - [Haskell](/src/algorithms/staircase.hs)
 
 ### Interview Preparation Kit
 - [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
